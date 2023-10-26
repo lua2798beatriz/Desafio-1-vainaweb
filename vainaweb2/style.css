@@ -1,0 +1,51 @@
+* {
+    margin: 2;
+    padding: 1;
+    font-family: 'inter',sans-serif;
+}
+header{
+    background-color: azure;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 80px;
+    color: black;
+}
+nav{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    align-items: center
+    justify-content: space-around
+}
+body{
+    background-color: rgb(101, 162, 94);
+    text-emphasis-color: white;
+}
+h1{
+    color: azure;
+    display: flex;
+}
+h2{
+    color: azure;
+}
+h3{
+    color: azure;
+}
+h4{
+    color: azure;
+}
+h5{
+    color: azure;
+}
+footer{
+    background-color: azure;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
